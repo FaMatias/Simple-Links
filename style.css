@@ -72,3 +72,15 @@ p {
     70% { box-shadow: 0 0 0 15px rgba(74, 144, 226, 0); }
     100% { box-shadow: 0 0 0 0 rgba(74, 144, 226, 0); }
 }
+
+/* Nuevo estilo en style.css para el botón de "Volver" */
+.back-button {
+    margin-top: 20px;
+    background-color: #555;
+    border-color: transparent;
+}
+.back-button:hover {
+    background-color: #777;
+    border-color: #ffffff;
+}
+
